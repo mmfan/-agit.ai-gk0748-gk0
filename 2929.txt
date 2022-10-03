@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://agit.ai/gk0748/gk0/src/branch/master/2929.jar",
+"spider":"https://ghproxy.com/https://github.com/chengxueli818913/maoTV/raw/main/2929.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
 "sites":[ 
