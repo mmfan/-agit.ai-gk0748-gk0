@@ -1,11 +1,11 @@
 {
     "urls":[  //资源来源于网络，若有冒犯，私信公众号涤灵苑删除！    
-	   {
-        "url":"https://agit.ai/1357712527/tvbox/raw/branch/master/TVBoxx.json",
+	    {
+        "url":"https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
        "name":"线路1"
       },
       {
-        "url":"https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+        "url":"https://agit.ai/1357712527/tvbox/raw/branch/master/TVBoxx.json",
        "name":"线路2"
       },
       {
