@@ -4,7 +4,6 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0dheXRpbWUvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-
 "sites":[ 
 
    {"key": "360_spider"       ,"name":"360影视🎾","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
