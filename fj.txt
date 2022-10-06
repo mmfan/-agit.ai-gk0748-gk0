@@ -2,11 +2,11 @@
     "urls":[  //资源来源于网络，若有冒犯，马上删除！    
 	    {
         "url":"https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
-       "name":"线路1资源来源于网络"
+       "name":"线路1"
       },
       {
         "url":"https://agit.ai/1357712527/tvbox/raw/branch/master/TVBoxx.json",
-       "name":"线路2如有冒犯私信"
+       "name":"线路2"
       },
       {
         "url":"https://agit.ai/zbweb/TVBOX/raw/branch/master/json/bcnet.json",
@@ -15,7 +15,7 @@
      
       {
         "url":"http://111.67.196.181/mtv/270.txt",
-       "name":"线路4马上删除"
+       "name":"线路4"
       },
       {
         "url":"https://agit.ai/Gaytime/CC/raw/branch/master/1024.txt",
