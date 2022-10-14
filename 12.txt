@@ -1,5 +1,5 @@
 
-💞dly频道BOX,#genre#
+💞dly频道,#genre#
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
@@ -4266,11 +4266,7 @@ EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
 dema,http://ye23.win/iptv/korea2021.php?id=dema
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
-💞获取VIP蜜马,#genre#
-公众号,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-dly频道BOX,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-回复   VIP,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-即可获取蜜马,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 🎎｜VIP高清秒播1_9988,#genre#
 天美傳媒01,https://video2.51daao.com/btt1/2021/03/20210313/NT9t3UiF/index.m3u8
 天美傳媒03,https://video2.51daao.com/btt1/2021/02/20210222/6T5EJIqq/index.m3u8
