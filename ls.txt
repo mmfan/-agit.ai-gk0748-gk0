@@ -5,7 +5,7 @@
        "name":"线路1资源来源于网络"
       },
       {
-        "url":"https://agit.ai/1357712527/tvbox/raw/branch/master/TVBoxx.json",
+        "url":"https://notabug.org/zqk219/yingshicang/raw/master/TVBox_Py/py.json",
        "name":"线路2如有冒犯私信"
       },
       {
