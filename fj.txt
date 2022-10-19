@@ -471,7 +471,7 @@
            "name":"飞机12" 
       },
       {
-        "url":"https://e40.cn/ygbh",
+        "url":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
 		  "name":"飞机13" 
       },
 	  {
@@ -481,6 +481,14 @@
       {
         "url":"https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
            "name":"飞机15" 
+      },
+      {
+        "url":"https://ghproxy.com/https://raw.githubusercontent.com/Guard-H/tvbox/main/cr/cr.json",
+           "name":"飞机17" 
+      },
+	  {
+        "url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/h",
+           "name":"飞机18" 
       }
     ]
     
